@@ -5,7 +5,7 @@ let x = subtract (3, 2)  //function is called, return value will end up in x
 
 function subtract(a,b){
     return a-b;  //function returns the product of a and b
-}
+} 
 
 function multiply(a,b){
     return a*b;  
